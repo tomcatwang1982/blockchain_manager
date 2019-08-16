@@ -7,7 +7,7 @@ import javax.persistence.Table;
 
 /**
  * 权限，主要存储各member对表的权限信息，如不可见、只能ADD，可以UPDATE、DELETE等等组合
- * @author wuweifeng wrote on 2018/3/5.
+ * @author tomcatwang wrote on 2019/08/19.
  */
 @Entity
 @Table(name = "permission")
